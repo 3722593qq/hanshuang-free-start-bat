@@ -1,0 +1,3 @@
+[submodule "seep-kit"]
+	path = seep-kit
+	url = https://github.com/angusdevgo/Seep-Reverse-Lab
