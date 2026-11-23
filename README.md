@@ -1,5 +1,7 @@
 # 寒霜破甲工具（hanshuang）
 
+仓库地址：https://github.com/3722593qq/hanshuang-free-start-bat
+
 一个开源的 Electron 桌面工具：把同一套「破甲」提示词与逆向技能库，一键安装 /
 卸载 / 还原到 9 个 AI 客户端，并内置 Seep 逆向工作台（Radare2 / JADX / Apktool /
 Frida 封装 + 战术知识库）的部署与自检。
@@ -79,7 +81,7 @@ MCP 服务、9 个技能、战术知识库、案例与 MANUAL 手册。
 
 ```bash
 # 克隆本项目时带上 submodule
-git clone --recursive <本仓库地址>
+git clone --recursive https://github.com/3722593qq/hanshuang-free-start-bat.git
 
 # 已经克隆过、想补拉 submodule
 git submodule update --init --recursive
